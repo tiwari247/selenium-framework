@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="51290" started-at="2020-06-03T20:00:09 IST" finished-at="2020-06-03T20:01:00 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="51290" started-at="2020-06-03T20:00:09 IST" finished-at="2020-06-03T20:01:00 IST">
+      <class name="com.framework.selenium.testcases.SeleniumDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.framework.selenium.testcases.SeleniumDemo@72d818d1]" name="setup" is-config="true" duration-ms="3146" started-at="2020-06-03T20:00:39 IST" finished-at="2020-06-03T20:00:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="first()[pri:0, instance:com.framework.selenium.testcases.SeleniumDemo@72d818d1]" name="first" duration-ms="11507" started-at="2020-06-03T20:00:42 IST" finished-at="2020-06-03T20:00:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="second()[pri:0, instance:com.framework.selenium.testcases.SeleniumDemo@72d818d1]" name="second" duration-ms="5608" started-at="2020-06-03T20:00:54 IST" finished-at="2020-06-03T20:00:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.selenium.testcases.SeleniumDemo@72d818d1]" name="tearDown" is-config="true" duration-ms="838" started-at="2020-06-03T20:00:59 IST" finished-at="2020-06-03T20:01:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.framework.selenium.testcases.SeleniumDemo -->
+      <class name="com.framework.selenium.testcases.SecondDemo">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.framework.selenium.testcases.SecondDemo@27c20538]" name="setup" is-config="true" duration-ms="5213" started-at="2020-06-03T20:00:09 IST" finished-at="2020-06-03T20:00:14 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="first()[pri:0, instance:com.framework.selenium.testcases.SecondDemo@27c20538]" name="first" duration-ms="19113" started-at="2020-06-03T20:00:14 IST" finished-at="2020-06-03T20:00:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- first -->
+        <test-method status="PASS" signature="second()[pri:0, instance:com.framework.selenium.testcases.SecondDemo@27c20538]" name="second" duration-ms="4950" started-at="2020-06-03T20:00:33 IST" finished-at="2020-06-03T20:00:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- second -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.framework.selenium.testcases.SecondDemo@27c20538]" name="tearDown" is-config="true" duration-ms="842" started-at="2020-06-03T20:00:38 IST" finished-at="2020-06-03T20:00:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.framework.selenium.testcases.SecondDemo -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
